@@ -1,0 +1,90 @@
+(a ∧ ¬b ∧ d)	TRIAND(Z,NOT(X),V)
+(a ∧ ¬c ∧ ¬e)	TRIAND(Z,NOT(C),NOT(B))
+( ¬a ∧ b ∧ c)	TRIAND(NOT(Z),X,C)
+( ¬a ∧ c ∧ ¬d)	TRIAND(NOT(Z),C,NOT(V))
+( ¬a ∧ c ∧ ¬e)	TRIAND(N(Z),C,N(B)
+(b ∧ ¬d)	AND(X,NOT(V)),
+( ¬b ∧ ¬c ∧ d)	TRIAND(NOT(X),NOT(C),V)
+
+
+
+
+
+
+HEPTA(
+
+,
+,
+,
+,
+TRIAND(Z,NOT(X),NOT(B)),	-->	TRIAND(N(Z),C,N(B))	PEÇA 1
+
+
+
+
+
+
+(a ∧ ¬b ∧ ¬c)
+(a ∧ c ∧ ¬e)	TRIAND(Z,C,N(B))
+(a ∧ ¬c ∧ d)	TRIAND(Z,N(C),V),
+( ¬a ∧ c ∧ e)	TRIAND(N(Z),C,B),
+( ¬a ∧ ¬c ∧ ¬e)	TRIAND(N(Z),N(C),N(B))
+(b ∧ c ∧ ¬d)	TRIAND(X,C,N(V)),
+(b ∧ ¬d ∧ e)	TRIAND(X,N(V),B),
+( ¬b ∧ d)	AND(N(X),V))
+
+
+
+OCTOOT(
+
+
+TRIAND(Z,N(X),C),	TRIAND(Z,N(X),N(C))	PEÇA 3
+
+
+
+
+
+
+
+
+
+(z ∧ x)		AND(Z,X)
+(z ∧ ¬c)	
+( ¬z ∧ c ∧ v)	TRIAND(N(Z),C,V)
+(x ∧ ¬c)	AND(X,N(C)),
+( ¬x ∧ ¬v)	AND(N(X),N(V))
+b		B
+
+
+
+
+HEXAOR(
+
+
+,
+
+AND(X,N(C)),	-->	AND(Z,N(C))		PEÇA 4
+,
+,
+)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

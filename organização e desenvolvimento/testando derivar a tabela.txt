@@ -1,0 +1,53 @@
+00000
+00100
+00101
+00110
+01000
+01001
+
+!z and !x and !c and !v and !b
+!z and !x and c and !v and !b
+!z and !x and c and !v and b
+!z and !x and c and v and !b
+!z and x and !c and !v and !b
+!z and x and !c and !v and b
+
+01010
+01110
+01111
+10000
+10010
+10011
+
+!z and x and !c and v and !b
+!z and x and c and v and !b
+!z and x and c and v and b
+z and !x and !c and !v and !b
+z and !x and !c and v and !b
+z and !x and !c and v and b
+
+10100
+11000
+11001
+11010
+11100
+11101
+
+z and !x and c and v and !b
+z and x and !c and !v and !b
+z and x and !c and !v and b
+z and x and !c and !v and !b
+z and x and c and v and !b
+z and x and c and v and b
+
+11110
+
+z and x and c and v and !b
+
+
+
+
+
+
+
+(!z and !x and !c and !v and !b) or (!z and !x and c and !v and !b)  or (!z and !x and c and !v and b) or (!z and !x and c and v and !b) or (!z and x and !c and !v and !b) or (!z and x and !c and !v and b) or (!z and x and !c and v and !b) or (!z and x and c and v and !b) or (!z and x and c and v and b) or (z and !x and !c and !v and !b) or (z and !x and !c and v and !b) or (z and !x and !c and v and b) or (z and !x and c and v and !b) or (z and x and !c and !v and !b) or (z and x and !c and !v and b) or (z and x and !c and !v and !b) or (z and x and c and v and !b) or (z and x and c and v and b) or (z and x and c and v and !b)
